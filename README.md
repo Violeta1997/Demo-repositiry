@@ -1,2 +1,2 @@
-# Demo-repositiry
+# Demo-repository
 This is only demo
